@@ -23,13 +23,6 @@ On iPhone, open a link, tap and hold the image, choose **Save to Photos**, then 
 - **1320 × 2868** PNG, the native resolution of the iPhone 16/17 Pro Max. They scale down cleanly to every iPhone from the X onwards and to most modern Android phones.
 - Made from the theme's original 6688 × 3764 artwork. The top of each wallpaper is open sky, so the lock-screen clock and widgets don't cover the scene.
 
-## Desktop theme
-
-Using Omarchy? Install the full theme, with matching colours and these wallpapers in their desktop versions:
-
-```bash
-omarchy-theme-install https://github.com/erikrjohansson/omarchy-cumulus-theme
-```
 
 ## License
 
