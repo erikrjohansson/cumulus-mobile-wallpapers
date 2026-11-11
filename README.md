@@ -12,7 +12,6 @@ Phone wallpapers from the [Cumulus](https://github.com/erikrjohansson/omarchy-cu
 | Cottage | [02-cottage.png](02-cottage.png?raw=true) |
 | Airship | [03-airship.png](03-airship.png?raw=true) |
 | Lighthouse | [04-lighthouse.png](04-lighthouse.png?raw=true) |
-| Lighthouse (left) | [05-lighthouse-left.png](05-lighthouse-left.png?raw=true) |
 
 Or grab them all at once: **Code → Download ZIP**.
 
